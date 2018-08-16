@@ -1,0 +1,20 @@
+C:\Users\John\AppData\Local\Temporary Projects\IDCardReader\bin\Debug\IDCardReader.exe.config
+D:\vsproject\IDCardReader\IDCardReader\IDCardReader\bin\Debug\IDCardReader.exe.config
+D:\vsproject\IDCardReader\IDCardReader\IDCardReader\bin\Debug\IDCardReader.exe
+D:\vsproject\IDCardReader\IDCardReader\IDCardReader\bin\Debug\IDCardReader.pdb
+D:\vsproject\IDCardReader\IDCardReader\IDCardReader\obj\Debug\IDCardReader.Properties.Resources.resources
+D:\vsproject\IDCardReader\IDCardReader\IDCardReader\obj\Debug\IDCardReader.csproj.GenerateResource.Cache
+D:\vsproject\IDCardReader\IDCardReader\IDCardReader\obj\Debug\IDCardReader.exe
+D:\vsproject\IDCardReader\IDCardReader\IDCardReader\obj\Debug\IDCardReader.pdb
+D:\vsproject\IDCardReader\IDCardReader\IDCardReader\obj\Debug\IDCardReader.frmStart.resources
+D:\vsproject\IDCardReader\IDCardReader\IDCardReader\bin\Debug\NdefLibrary.dll
+D:\vsproject\IDCardReader\IDCardReader\IDCardReader\obj\Debug\IDCardReader.csprojResolveAssemblyReference.cache
+D:\vsproject\NFC\IDCardReader\IDCardReader\IDCardReader\bin\Debug\NdefLibrary.dll
+D:\vsproject\NFC\IDCardReader\IDCardReader\IDCardReader\obj\Debug\IDCardReader.csproj.GenerateResource.Cache
+D:\vsproject\NFC\IDCardReader\IDCardReader\IDCardReader\bin\Debug\NTagReader.exe.config
+D:\vsproject\NFC\IDCardReader\IDCardReader\IDCardReader\bin\Debug\NTagReader.exe
+D:\vsproject\NFC\IDCardReader\IDCardReader\IDCardReader\bin\Debug\NTagReader.pdb
+D:\vsproject\NFC\IDCardReader\IDCardReader\IDCardReader\obj\Debug\NTagReader.frmStart.resources
+D:\vsproject\NFC\IDCardReader\IDCardReader\IDCardReader\obj\Debug\NTagReader.Properties.Resources.resources
+D:\vsproject\NFC\IDCardReader\IDCardReader\IDCardReader\obj\Debug\NTagReader.exe
+D:\vsproject\NFC\IDCardReader\IDCardReader\IDCardReader\obj\Debug\NTagReader.pdb
